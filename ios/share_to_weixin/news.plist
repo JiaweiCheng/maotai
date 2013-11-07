@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>title</key>
+		<string>国际金价破位迎来购金好时机</string>
+		<key>content</key>
+		<string>日前，国际金价从高位跌破1200美元再反弹至目前1300美元每盎司...</string>
+		<key>img</key>
+		<string>http://img.caixin.com/2012-09-26/201209260050_266_177.jpg</string>
+		<key>link</key>
+		<string>http://gold.stockstar.com/IG2013110500002414.shtml</string>
+	</dict>
+	
+	<key>2</key>
+	<dict>
+		<key>title</key>
+		<string>北京交通部门提交建议：拥有车位才能摇号</string>
+		<key>content</key>
+		<string>国外多个城市实施的控车措施—购车需出示“车位证明”或将在北京实施。昨天记者获悉，交通部门已提交建议，拟完善本市机动车停车泊位“一车一位一编号”数据库建设，把拥有（购买或租赁）停车泊位作为申请小客车摇号的资格审核条件之一。</string>
+		<key>img</key>
+		<string>http://img1.cache.netease.com/catchpic/6/6D/6DB64802383DB9FE7A8E495C58DD9F0B.jpg</string>
+		<key>link</key>
+		<string>http://news.163.com/13/1106/01/9CVA5DHR00014AED.html?hl</string>
+	</dict>
+	
+	<key>3</key>
+	<dict>
+		<key>title</key>
+		<string>搞互联网金融的，少点大数据忽悠吧！</string>
+		<key>content</key>
+		<string>对于互联网金融，互联网行业和传统金融行业的观点往往大不相同，前者认为互联网是重点，金融不过是下一个即将被颠覆的特定行业而已，只是由于金融行业的高门槛和严监管，颠覆进程会比较曲折；后者则认为金融有自己完全不同的逻辑，信用和风险是难以逾越的门槛，护城河高筑，互联网金融只能在互联网企业的一亩三分地里自娱自乐。</string>
+		<key>img</key>
+		<string>http://news.baidu.com/z/resource/r/image/2013-11-06/fb70118f7eac3cc9f9d4a016adf00f03.jpg</string>
+		<key>link</key>
+		<string>http://www.huxiu.com/article/22450/1.html</string>
+	</dict>
+</dict>
+</plist>
